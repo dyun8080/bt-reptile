@@ -13,4 +13,4 @@ $ bt-reptile <keyWord>
 $ bt-reptile 复仇者联盟
 ```
 
-`![](https://github.com/dyun8080/bt-reptile/blob/master/src/image.png)`
+![xxx](https://github.com/dyun8080/bt-reptile/blob/master/src/image.png)
