@@ -4,12 +4,13 @@
 
 ## use
 
-```base
-
-$ yarn
-$ yarn build
-$ bt
-
+```shell
+$ npm install bt-reptile -g
+$ bt-reptile <keyWord>
 ```
 
-[](https://github.com/dyun8080/bt-reptile/blob/master/src/image.png)
+```shell
+$ bt-reptile 复仇者联盟
+```
+
+`![](https://github.com/dyun8080/bt-reptile/blob/master/src/image.png)`
